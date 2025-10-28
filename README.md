@@ -44,7 +44,7 @@ This repository curates recent studies on crop disease detection, monitoring, an
 
 ---
 
-## Summary of Recent Studies: LLMs & VLMs for Crop Disease / Agricultural Text
+## Summary of Recent Studies: LLMs for Crop Disease / Agricultural Text
 
 ### 2024
 
