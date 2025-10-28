@@ -17,16 +17,21 @@ Curated resources, code, and benchmarks for foundation-model-enabled crop diseas
 # Table of Contents
 
 - [Introduction](#introduction)
+# Table of Contents
 - [Curated Papers by Year](#curated-papers-by-year)
-  - [2024](#2024-llm)
+  - [2024](#2024)
     - [LLM-focused Studies](#llm-focused-studies-2024)
     - [VLM-focused Studies](#vlm-focused-studies-2024)
-  - [2023](#2023-llm)
+  - [2023](#2023)
     - [LLM-focused Studies](#llm-focused-studies-2023)
     - [VLM-focused Studies](#vlm-focused-studies-2023)
-  - [2022](#2022-llm)
+  - [2022](#2022)
     - [LLM-focused Studies](#llm-focused-studies-2022)
     - [VLM-focused Studies](#vlm-focused-studies-2022)
+  - [2021](#2021)
+    - [VLM-focused Studies](#vlm-focused-studies-2021)
+  - [2018](#2018)
+    - [LLM-focused Studies](#llm-focused-studies-2018)
 - [Datasets](#datasets)
 - [Models & Benchmarks](#models--benchmarks)
 - [Simulation & Digital Twin Studies](#simulation--digital-twin-studies)
@@ -45,9 +50,9 @@ This repository curates recent studies on crop disease detection, monitoring, an
 
 ---
 
-## Summary of Recent Studies: LLMs for Crop Disease / Agricultural Text
+## 2024
 
-### 2024
+### LLM-focused Studies 2024
 
 | Approach / Models | Model Type | Open-access source | Use Cases | Journal | Reference |
 |------------------|-----------|-----------------|-----------|---------|-----------|
@@ -58,6 +63,43 @@ This repository curates recent studies on crop disease detection, monitoring, an
 | GlyReShot (Chinese agricultural NER, few-shot + GROM module) | LLM | --- | Recognizing entities (disease, crop, pest, drug) in Chinese agricultural text | *Heliyon* | [Liu2024](#) |
 | RAG chatbot with hybrid DeiT + VGG16 | VLM | Not explicitly available | Medicinal plant identification + bilingual insights using images + RAG | *Telematics and Informatics* | [Paneru2024](#) |
 | Agricultural Knowledge Graph (AGKG) + LLMs | LLM | Not specified | Entity retrieval and Q&A via domain-specific AGKG | *Displays* | [Wang2024](#) |
+
+### VLM-focused Studies 2024
+<!-- Insert VLM table for 2024 here -->
+
+## 2023
+
+### LLM-focused Studies 2023
+<!-- Insert LLM table for 2023 here -->
+
+### VLM-focused Studies 2023
+<!-- Insert VLM table for 2023 here -->
+
+## 2022
+
+### LLM-focused Studies 2022
+<!-- Insert LLM table for 2022 here -->
+
+### VLM-focused Studies 2022
+<!-- Insert VLM table for 2022 here -->
+
+## 2021
+
+### VLM-focused Studies 2021
+<!-- Insert VLM table for 2021 here -->
+
+## 2018
+
+### LLM-focused Studies 2018
+<!-- Insert LLM table for 2018 here -->
+
+
+
+
+
+### 2024
+
+
 
 ### 2023
 
