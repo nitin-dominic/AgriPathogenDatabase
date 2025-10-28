@@ -9,7 +9,9 @@ A single, well-documented repository that collects papers, datasets, code, pretr
 - `sim/` — digital twin environments and sim-to-real experiment configs.
 - `experiments/` — RL/adaptive-learning recipes and evaluation scripts.
 - `notebooks/` — walkthroughs: detection → explanation → prescription report → Q&A.
-  
+
+  > ⚠️ **Disclaimer:** This repository is a work in progress. Content, papers, and code are continuously being added and updated.
+
 # Table of Contents
 
 - [Introduction](#introduction)
