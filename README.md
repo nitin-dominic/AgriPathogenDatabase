@@ -44,28 +44,38 @@ This repository curates recent studies on crop disease detection, monitoring, an
 
 ---
 
-## Curated Papers by Year
+## Summary of Recent Studies: LLMs & VLMs for Crop Disease / Agricultural Text
 
 ### 2024
 
-| Title | Authors | Approach | Dataset | Key Finding |
-|-------|--------|---------|--------|------------|
-| Example Paper 1 | A. Author et al. | VLM + LLM | PlantVillage | Early detection improved by 15% |
-| Example Paper 2 | B. Author et al. | RL + Digital Twin | In-field images | Targeted spraying policy optimized in sim |
+| Approach / Models | Model Type | Open-access source | Use Cases | Journal | Reference |
+|------------------|-----------|-----------------|-----------|---------|-----------|
+| Used LLM with Agricultural Knowledge Graphs (KGs), Graph Neural Networks (GNNs) | LLM | Not specified | Plant disease diagnosis, reasoning over symptoms, linking textual disease corpora with structured knowledge | MDPI *Agriculture* | [Zhao2024](#) |
+| GPT-4 (OpenAI API) for automated literature synthesis on pest controllers | LLM | Proprietary (OpenAI) | Automating systematic reviews, reducing expert workload | *Methods in Ecology and Evolution* | [Scheepens2024](#) |
+| GPT-based models for sensor + text queries | LLM | Proprietary (OpenAI) | Query-based plant health monitoring, e.g., explaining yellowing leaves using sensors + LLM reasoning | *Int. J. Computer Applications in Technology* | [Ahir2024](#) |
+| Q&A systems using GPT-4 + knowledge graphs | LLM | --- | Plant disease diagnosis, pest identification, Q&A for sustainable management | *Resources, Conservation and Recycling* | [Yang2024](#) |
+| GlyReShot (Chinese agricultural NER, few-shot + GROM module) | LLM | --- | Recognizing entities (disease, crop, pest, drug) in Chinese agricultural text | *Heliyon* | [Liu2024](#) |
+| RAG chatbot with hybrid DeiT + VGG16 | VLM | Not explicitly available | Medicinal plant identification + bilingual insights using images + RAG | *Telematics and Informatics* | [Paneru2024](#) |
+| Agricultural Knowledge Graph (AGKG) + LLMs | LLM | Not specified | Entity retrieval and Q&A via domain-specific AGKG | *Displays* | [Wang2024](#) |
 
 ### 2023
 
-| Title | Authors | Approach | Dataset | Key Finding |
-|-------|--------|---------|--------|------------|
-| Example Paper 1 | C. Author et al. | Multimodal fusion | Hyperspectral + RGB | Multimodal approach improved classification accuracy |
-| Example Paper 2 | D. Author et al. | LLM for prescription | Yield logs | Automatic recommendation matched expert decisions 85% of the time |
+| Approach / Models | Model Type | Open-access source | Use Cases | Journal | Reference |
+|------------------|-----------|-----------------|-----------|---------|-----------|
+| GPT-3.5 for agricultural extension services | LLM | Proprietary (OpenAI) | Farmer advisory chatbots, pest/disease diagnosis, local language support | *Nature Food* | [Tzachor2023](#) |
+| ChatAgri (ChatGPT-based agricultural text classification) | LLM | [GitHub link](https://github.com/albert-jin/agricultural_textual_classification_ChatGPT) | Cross-lingual agricultural news classification, few-shot and prompt-based learning | *Neurocomputing* | [Zhao2023](#) |
 
 ### 2022
 
-| Title | Authors | Approach | Dataset | Key Finding |
-|-------|--------|---------|--------|------------|
-| Example Paper 1 | E. Author et al. | CNN detection | PlantVillage | Disease detection accuracy 92% |
-| Example Paper 2 | F. Author et al. | Human-in-the-loop | Field trials | Annotation feedback reduced false positives by 20% |
+| Approach / Models | Model Type | Open-access source | Use Cases | Journal | Reference |
+|------------------|-----------|-----------------|-----------|---------|-----------|
+| AgriBERT (BERT-based, knowledge-infused with FoodOn/Wikidata) | LLM | --- | Semantic matching of food descriptions, cuisine classification, agricultural NLP tasks | IJCAI 2022 | [Rezayi2022](#) |
+
+### 2018
+
+| Approach / Models | Model Type | Open-access source | Use Cases | Journal | Reference |
+|------------------|-----------|-----------------|-----------|---------|-----------|
+| Original GPT pre-training paper (OpenAI) | LLM | Not open-source initially | Laid foundation for later agricultural LLM applications | OpenAI | [Radford2018](#) |
 
 ---
 
