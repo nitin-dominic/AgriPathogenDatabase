@@ -65,66 +65,6 @@ This repository curates recent studies on crop disease detection, monitoring, an
 | Agricultural Knowledge Graph (AGKG) + LLMs | LLM | Not specified | Entity retrieval and Q&A via domain-specific AGKG | *Displays* | [Wang2024](#) |
 
 ### VLM-focused Studies 2024
-<!-- Insert VLM table for 2024 here -->
-
-## 2023
-
-### LLM-focused Studies 2023
-<!-- Insert LLM table for 2023 here -->
-
-### VLM-focused Studies 2023
-<!-- Insert VLM table for 2023 here -->
-
-## 2022
-
-### LLM-focused Studies 2022
-<!-- Insert LLM table for 2022 here -->
-
-### VLM-focused Studies 2022
-<!-- Insert VLM table for 2022 here -->
-
-## 2021
-
-### VLM-focused Studies 2021
-<!-- Insert VLM table for 2021 here -->
-
-## 2018
-
-### LLM-focused Studies 2018
-<!-- Insert LLM table for 2018 here -->
-
-
-
-
-
-### 2024
-
-
-
-### 2023
-
-| Approach / Models | Model Type | Open-access source | Use Cases | Journal | Reference |
-|------------------|-----------|-----------------|-----------|---------|-----------|
-| GPT-3.5 for agricultural extension services | LLM | Proprietary (OpenAI) | Farmer advisory chatbots, pest/disease diagnosis, local language support | *Nature Food* | [Tzachor2023](#) |
-| ChatAgri (ChatGPT-based agricultural text classification) | LLM | [GitHub link](https://github.com/albert-jin/agricultural_textual_classification_ChatGPT) | Cross-lingual agricultural news classification, few-shot and prompt-based learning | *Neurocomputing* | [Zhao2023](#) |
-
-### 2022
-
-| Approach / Models | Model Type | Open-access source | Use Cases | Journal | Reference |
-|------------------|-----------|-----------------|-----------|---------|-----------|
-| AgriBERT (BERT-based, knowledge-infused with FoodOn/Wikidata) | LLM | --- | Semantic matching of food descriptions, cuisine classification, agricultural NLP tasks | IJCAI 2022 | [Rezayi2022](#) |
-
-### 2018
-
-| Approach / Models | Model Type | Open-access source | Use Cases | Journal | Reference |
-|------------------|-----------|-----------------|-----------|---------|-----------|
-| Original GPT pre-training paper (OpenAI) | LLM | Not open-source initially | Laid foundation for later agricultural LLM applications | OpenAI | [Radford2018](#) |
-
----
-
-# Summary of Recent Studies: VLMs for Crop Disease / Agricultural Text
-
-## 2024
 
 | Models | Type | Open-access source | Use Cases | Journal | Reference |
 |--------|------|-----------------|-----------|---------|-----------|
@@ -143,7 +83,17 @@ This repository curates recent studies on crop disease detection, monitoring, an
 | Segment Anything Model (SAM) | Image segmentation | [SAM-Meta AI](https://segment-anything.com/) | Identifies and segments diseased regions in leaves | IEEE *Access* | [Moupojou2024](#) |
 | Visual Answer Model (VQA) | Multi-modal VQA | - | Answer questions about fruit tree diseases using images + Q&A knowledge | *Frontiers in Plant Science* | [Lan2023](#) |
 
+
 ## 2023
+
+### LLM-focused Studies 2023
+
+| Approach / Models | Model Type | Open-access source | Use Cases | Journal | Reference |
+|------------------|-----------|-----------------|-----------|---------|-----------|
+| GPT-3.5 for agricultural extension services | LLM | Proprietary (OpenAI) | Farmer advisory chatbots, pest/disease diagnosis, local language support | *Nature Food* | [Tzachor2023](#) |
+| ChatAgri (ChatGPT-based agricultural text classification) | LLM | [GitHub link](https://github.com/albert-jin/agricultural_textual_classification_ChatGPT) | Cross-lingual agricultural news classification, few-shot and prompt-based learning | *Neurocomputing* | [Zhao2023](#) |
+
+### VLM-focused Studies 2023
 
 | Models | Type | Open-access source | Use Cases | Journal | Reference |
 |--------|------|-----------------|-----------|---------|-----------|
@@ -155,11 +105,29 @@ This repository curates recent studies on crop disease detection, monitoring, an
 | MMFGT | Multi-modal transformer | - | Few-shot pest recognition combining image + text information | MDPI *Electronics* | [Zhang2023](#) |
 | ODP-Transformer | Multi-modal image-to-text + classification | - | Two-stage pest classification + caption generation | *Computers and Electronics in Agriculture* | [Wang2023](#) |
 
+## 2022
+
+### LLM-focused Studies 2022
+| Approach / Models | Model Type | Open-access source | Use Cases | Journal | Reference |
+|------------------|-----------|-----------------|-----------|---------|-----------|
+| AgriBERT (BERT-based, knowledge-infused with FoodOn/Wikidata) | LLM | --- | Semantic matching of food descriptions, cuisine classification, agricultural NLP tasks | IJCAI 2022 | [Rezayi2022](#) |
+
+
 ## 2021
 
+### VLM-focused Studies 2021
 | Models | Type | Open-access source | Use Cases | Journal | Reference |
 |--------|------|-----------------|-----------|---------|-----------|
 | ITK-Net (Image-Text-Knowledge Network) | Multi-modal | - | Identify invasive diseases in tomato/cucumber using image + text + domain knowledge | *Computers and Electronics in Agriculture* | [Zhou2021](#) |
+
+## 2018
+
+### LLM-focused Studies 2018
+<!-- Insert LLM table for 2018 here -->
+
+| Approach / Models | Model Type | Open-access source | Use Cases | Journal | Reference |
+|------------------|-----------|-----------------|-----------|---------|-----------|
+| Original GPT pre-training paper (OpenAI) | LLM | Not open-source initially | Laid foundation for later agricultural LLM applications | OpenAI | [Radford2018](#) |
 
 ---
 
