@@ -172,6 +172,26 @@ s-by-year)
 2. Read `datasets/readme.md` for dataset setup.
 3. Launch demo: `python demos/gradio_demo.py`
 
+## How to Contribute
+
+If you have suggestions, come across missed papers, or find useful resources, we welcome your contributions via **pull requests**.
+
+### Guidelines:
+
+1. Use the following Markdown format when adding a new paper:
+
+2. For preprints with multiple versions, use the **earliest submitted year**.
+
+3. Display papers in **descending chronological order** (latest first).
+
+4. Indicate clearly whether the study is **LLM-focused** or **VLM-focused**.
+
+5. For code or datasets, provide a direct link and a short description.
+
+### Example:
+
+*Zhao, J., Li, H., and Wang, P.* **GlyReShot: Few-shot Chinese Agricultural NER.** <ins>Heliyon</ins> 2024. [[PDF](https://doi.org/xxx)]; [[GitHub](https://github.com/xyz)].
+
 ## Cite
 If you use this repo, please cite: `@misc{...}`
 
