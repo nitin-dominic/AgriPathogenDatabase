@@ -52,7 +52,7 @@ This repository curates recent studies on crop disease detection, monitoring, an
 
 | Approach / Models | Model Type | Open-access source | Use Cases | Journal | Reference |
 |------------------|-----------|-----------------|-----------|---------|-----------|
-| Used LLM with Agricultural Knowledge Graphs (KGs), Graph Neural Networks (GNNs) | LLM | Not specified | Plant disease diagnosis, reasoning over symptoms, linking textual disease corpora with structured knowledge | MDPI *Agriculture* | [Zhao2024](#) |
+| Used LLM with Agricultural Knowledge Graphs (KGs), Graph Neural Networks (GNNs) | LLM | Not specified | Plant disease diagnosis, reasoning over symptoms, linking textual disease corpora with structured knowledge | MDPI *Agriculture* | [Zhao2024](https://www.mdpi.com/2077-0472/14/8/1359) |
 | GPT-4 (OpenAI API) for automated literature synthesis on pest controllers | LLM | Proprietary (OpenAI) | Automating systematic reviews, reducing expert workload | *Methods in Ecology and Evolution* | [Scheepens2024](#) |
 | GPT-based models for sensor + text queries | LLM | Proprietary (OpenAI) | Query-based plant health monitoring, e.g., explaining yellowing leaves using sensors + LLM reasoning | *Int. J. Computer Applications in Technology* | [Ahir2024](#) |
 | Q&A systems using GPT-4 + knowledge graphs | LLM | --- | Plant disease diagnosis, pest identification, Q&A for sustainable management | *Resources, Conservation and Recycling* | [Yang2024](#) |
