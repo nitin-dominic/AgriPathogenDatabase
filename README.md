@@ -13,22 +13,26 @@ Curated resources, code, and benchmarks for foundation-model-enabled crop diseas
 - `sim/` — digital twin environments and sim-to-real experiment configs.
 - `experiments/` — RL/adaptive-learning recipes and evaluation scripts.
 - `notebooks/` — walkthroughs: detection → explanation → prescription report → Q&A.
+  
+# Table of Contents
 
-# Crop Disease Management: Curated Papers
-
-## Table of Contents
 - [Introduction](#introduction)
 - [Curated Papers by Year](#curated-papers-by-year)
   - [2024](#2024)
+    - [LLM-focused Studies](#llm-focused-studies-2024)
+    - [VLM-focused Studies](#vlm-focused-studies-2024)
   - [2023](#2023)
+    - [LLM-focused Studies](#llm-focused-studies-2023)
+    - [VLM-focused Studies](#vlm-focused-studies-2023)
   - [2022](#2022)
+    - [LLM-focused Studies](#llm-focused-studies-2022)
+    - [VLM-focused Studies](#vlm-focused-studies-2022)
 - [Datasets](#datasets)
 - [Models & Benchmarks](#models--benchmarks)
 - [Simulation & Digital Twin Studies](#simulation--digital-twin-studies)
 - [Human-in-the-Loop Approaches](#human-in-the-loop-approaches)
 - [Experiments / Workflows](#experiments--workflows)
 - [References](#references)
-
 ---
 
 ## Introduction
