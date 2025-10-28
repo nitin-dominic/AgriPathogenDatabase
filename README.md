@@ -14,6 +14,10 @@ Curated resources, code, and benchmarks for foundation-model-enabled crop diseas
 - `experiments/` — RL/adaptive-learning recipes and evaluation scripts.
 - `notebooks/` — walkthroughs: detection → explanation → prescription report → Q&A.
 
+# Table of Content
+- [Introduction](#introduction)
+- [Curated Papers by Year](#curated-papers-by-year)
+
 ## Quick start
 1. Clone: `git clone https://github.com/<you>/Crop-Disease-Foundation-Models`
 2. Read `datasets/readme.md` for dataset setup.
