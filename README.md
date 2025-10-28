@@ -79,6 +79,47 @@ This repository curates recent studies on crop disease detection, monitoring, an
 
 ---
 
+# Summary of Recent Studies: VLMs for Crop Disease / Agricultural Text
+
+## 2024
+
+| Models | Type | Open-access source | Use Cases | Journal | Reference |
+|--------|------|-----------------|-----------|---------|-----------|
+| DINOv2 | Vision model | [Hugging Face](https://huggingface.co/docs/transformers/en/model_doc/dinov2) | Self-supervised feature extraction, clustering of disease symptoms | ScienceDirect | [Bai2024](#) |
+| BLIP / BLIP-2 | Multi-modal model | [Hugging Face](https://huggingface.co/docs/transformers/en/model_doc/blip-2) | Image captioning and visual reasoning for disease explanation | - | [Liang2024](#) |
+| LLaVA | Multi-modal model | [Hugging Face](https://huggingface.co/docs/transformers/en/model_doc/llava) | Multi-modal reasoning for plant disease recognition | - | [Xu2025](#) |
+| SAM | VLM | [GitHub](https://github.com/facebookresearch/segment-anything) | Wheat disease diagnosis through reasoning | ScienceDirect | [Zhang2024](#) |
+| ViT + GPT-2 | VLM | [OpenAI](https://openai.com/index/gpt-2-1-5b-release/) / [Hugging Face](https://huggingface.co/docs/transformers/en/model_doc/vit) | Align plant disease phenotypes with trait descriptions | *Plant Phenomics* | [Zhao2024](#) |
+| Inception-v4 + LSTM | VLM | - | Align crop disease images with question embeddings | *Plant Phenomics* | [Zhao2024](#) |
+| PDC-VLD | Multi-modal (vision + text) | - | Tomato leaf disease detection with unseen class generalization | *Plant Phenomics* | [Li2024](#) |
+| FHTW-Net | Vision-language model | [GitHub](https://github.com/ZhouGuoXiong/FHTW-Net) | Retrieve matching text from a query image (and vice versa) for rice leaf disease descriptions | *Plant Phenomics* | [Zhou2024](#) |
+| ILCD | Multi-modal visual question answering | [GitHub](https://github.com/SdustZYP/ILCD-master/tree/main) | Addressed complex questions about crop disease stages and attributes | *Plant Phenomics* | [Zhao2024](#) |
+| PhenoTrait (GPT-4 / GPT-4o) | Multi-modal (image-to-text) | [PlanText](https://plantext.samlab.cn/) | Generates plant disease descriptions from images | *Plant Phenomics* | [Zhao2024](#) |
+| PepperNet | Multi-modal VLM | - | Detecting pepper diseases and pests using natural language descriptions | *Nature Scientific Reports* | [Liu2024](#) |
+| Qwen-VL | Pre-trained VLM | [Google Drive](https://drive.google.com/drive/folders/1sl-nRDYGz9T4969QjS_nRnoZIfcREWOW) | Generate text descriptions for disease images as prompt for classifiers | MDPI *Sensors* | [Zhou2024](#) |
+| Segment Anything Model (SAM) | Image segmentation | [SAM-Meta AI](https://segment-anything.com/) | Identifies and segments diseased regions in leaves | IEEE *Access* | [Moupojou2024](#) |
+| Visual Answer Model (VQA) | Multi-modal VQA | - | Answer questions about fruit tree diseases using images + Q&A knowledge | *Frontiers in Plant Science* | [Lan2023](#) |
+
+## 2023
+
+| Models | Type | Open-access source | Use Cases | Journal | Reference |
+|--------|------|-----------------|-----------|---------|-----------|
+| ITLMLP | Vision-language pre-training | - | Few-shot cucumber disease recognition using image, text, and label information | *Computers and Electronics in Agriculture* | [Cao2023](#) |
+| YOLO + GPT | Multi-modal model | [GitHub](https://github.com/ultralytics/ultralytics) / [OpenAI](https://platform.openai.com/docs/models) | Generate agricultural diagnostic reports with deep logical reasoning | *Computers and Electronics in Agriculture* | [Qing2023](#) |
+| ITF-WPI | Cross-modal feature fusion | [GitHub](https://github.com/wemindful/Cross-modal-pest-Identifying) | Wolfberry pest identification using image + text | *Computers and Electronics in Agriculture* | [Dai2023](#) |
+| Neuro-symbolic AI | Deep learning + knowledge graph | [GitHub](https://github.com/Research-Tek/xai-cassava-agriculture/tree/master) | Improves prediction accuracy and explains results for farmers | *Expert Systems with Applications* | [Chhetri2023](#) |
+| ShuffleNetV2 + TextCNN | Multi-modal model | - | Extract textual features and semantic relationships from descriptive text | *Nature Scientific Reports* | [Qiu2023](#) |
+| MMFGT | Multi-modal transformer | - | Few-shot pest recognition combining image + text information | MDPI *Electronics* | [Zhang2023](#) |
+| ODP-Transformer | Multi-modal image-to-text + classification | - | Two-stage pest classification + caption generation | *Computers and Electronics in Agriculture* | [Wang2023](#) |
+
+## 2021
+
+| Models | Type | Open-access source | Use Cases | Journal | Reference |
+|--------|------|-----------------|-----------|---------|-----------|
+| ITK-Net (Image-Text-Knowledge Network) | Multi-modal | - | Identify invasive diseases in tomato/cucumber using image + text + domain knowledge | *Computers and Electronics in Agriculture* | [Zhou2021](#) |
+
+---
+
 ## Datasets
 - **PlantVillage**: Lab images of diseased crops  
 - **In-field disease datasets**: Multi-season field imagery  
