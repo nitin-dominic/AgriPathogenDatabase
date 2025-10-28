@@ -18,13 +18,13 @@ Curated resources, code, and benchmarks for foundation-model-enabled crop diseas
 
 - [Introduction](#introduction)
 - [Curated Papers by Year](#curated-papers-by-year)
-  - [2024](#2024)
+  - [2024](#2024-llm)
     - [LLM-focused Studies](#llm-focused-studies-2024)
     - [VLM-focused Studies](#vlm-focused-studies-2024)
-  - [2023](#2023)
+  - [2023](#2023-llm)
     - [LLM-focused Studies](#llm-focused-studies-2023)
     - [VLM-focused Studies](#vlm-focused-studies-2023)
-  - [2022](#2022)
+  - [2022](#2022-llm)
     - [LLM-focused Studies](#llm-focused-studies-2022)
     - [VLM-focused Studies](#vlm-focused-studies-2022)
 - [Datasets](#datasets)
@@ -33,6 +33,7 @@ Curated resources, code, and benchmarks for foundation-model-enabled crop diseas
 - [Human-in-the-Loop Approaches](#human-in-the-loop-approaches)
 - [Experiments / Workflows](#experiments--workflows)
 - [References](#references)
+  
 ---
 
 ## Introduction
