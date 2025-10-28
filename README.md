@@ -53,12 +53,12 @@ This repository curates recent studies on crop disease detection, monitoring, an
 | Approach / Models | Model Type | Open-access source | Use Cases | Journal | Reference |
 |------------------|-----------|-----------------|-----------|---------|-----------|
 | Used LLM with Agricultural Knowledge Graphs (KGs), Graph Neural Networks (GNNs) | LLM | Not specified | Plant disease diagnosis, reasoning over symptoms, linking textual disease corpora with structured knowledge | MDPI *Agriculture* | [Zhao2024](https://www.mdpi.com/2077-0472/14/8/1359) |
-| GPT-4 (OpenAI API) for automated literature synthesis on pest controllers | LLM | Proprietary (OpenAI) | Automating systematic reviews, reducing expert workload | *Methods in Ecology and Evolution* | [Scheepens2024](#) |
-| GPT-based models for sensor + text queries | LLM | Proprietary (OpenAI) | Query-based plant health monitoring, e.g., explaining yellowing leaves using sensors + LLM reasoning | *Int. J. Computer Applications in Technology* | [Ahir2024](#) |
-| Q&A systems using GPT-4 + knowledge graphs | LLM | --- | Plant disease diagnosis, pest identification, Q&A for sustainable management | *Resources, Conservation and Recycling* | [Yang2024](#) |
-| GlyReShot (Chinese agricultural NER, few-shot + GROM module) | LLM | --- | Recognizing entities (disease, crop, pest, drug) in Chinese agricultural text | *Heliyon* | [Liu2024](#) |
-| RAG chatbot with hybrid DeiT + VGG16 | VLM | Not explicitly available | Medicinal plant identification + bilingual insights using images + RAG | *Telematics and Informatics* | [Paneru2024](#) |
-| Agricultural Knowledge Graph (AGKG) + LLMs | LLM | Not specified | Entity retrieval and Q&A via domain-specific AGKG | *Displays* | [Wang2024](#) |
+| GPT-4 (OpenAI API) for automated literature synthesis on pest controllers | LLM | Proprietary (OpenAI) | Automating systematic reviews, reducing expert workload | *Methods in Ecology and Evolution* | [Scheepens2024](https://www.biorxiv.org/content/10.1101/2024.01.12.575330v1) |
+| GPT-based models for sensor + text queries | LLM | Proprietary (OpenAI) | Query-based plant health monitoring, e.g., explaining yellowing leaves using sensors + LLM reasoning | *Int. J. Computer Applications in Technology* | [Ahir2024](https://www.inderscienceonline.com/doi/abs/10.1504/IJCAT.2024.146146) |
+| Q&A systems using GPT-4 + knowledge graphs | LLM | --- | Plant disease diagnosis, pest identification, Q&A for sustainable management | *Resources, Conservation and Recycling* | [Yang2024](https://www.sciencedirect.com/science/article/pii/S0921344924000910) |
+| GlyReShot (Chinese agricultural NER, few-shot + GROM module) | LLM | --- | Recognizing entities (disease, crop, pest, drug) in Chinese agricultural text | *Heliyon* | [Liu2024](https://www.sciencedirect.com/science/article/pii/S2405844024081246) |
+| RAG chatbot with hybrid DeiT + VGG16 | VLM | Not explicitly available | Medicinal plant identification + bilingual insights using images + RAG | *Telematics and Informatics* | [Paneru2024](https://www.sciencedirect.com/science/article/pii/S2772503024000677) |
+| Agricultural Knowledge Graph (AGKG) + LLMs | LLM | Not specified | Entity retrieval and Q&A via domain-specific AGKG | *Displays* | [Wang2024](https://www.mdpi.com/2079-9292/13/11/2209) |
 
 ### VLM-focused Studies 2024
 
