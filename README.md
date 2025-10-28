@@ -1,10 +1,6 @@
-# Crop Disease Foundation Models: A Set of Technical Articles
+# Crop Disease Foundation Models: Technical Articles, Code, and Resources
 
-A single, well-documented repository that collects papers, datasets, code, pretrained models, simulation/digital-twin environments, baseline notebooks, evaluation scripts, and demo UIs — all specifically for crop disease detection, monitoring, and management (text + vision + multimodal + decision-making).
-
-# Crop-Disease-Foundation-Models
-
-Curated resources, code, and benchmarks for foundation-model-enabled crop disease detection, monitoring, and management.
+A single, well-documented repository that collects papers, datasets, code, pretrained models, simulation/digital-twin environments, baseline notebooks, evaluation scripts, and demo UIs — all specifically for crop disease detection, monitoring, and management (text + vision + multimodal + decision-making). Curated resources, code, and benchmarks for foundation-model-enabled crop disease detection, monitoring, and management.
 
 ## What this repo contains
 - `papers/` — annotated list of recent studies (LLMs, VLMs, multimodal) focused on crop diseases.
